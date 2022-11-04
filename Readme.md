@@ -18,9 +18,8 @@ Baixar as imagens no repositório [Drive](https://drive.google.com/drive/folders
 
 **As imagens do drive estão separadas por treino e teste, também já estão classificadas e tratatas de acordo.**
 
-Foi utilizado o software Anaconda e criado um enviroment com as especificações solicitadas (Opencv Versão 3).
-
-
-
-
-
+Foi utilizado o software Anaconda e criado um enviroment com as especificações solicitadas (
+    
+- Opencv Versão 3
+- Numpy 
+- matplotlib.pyplot
